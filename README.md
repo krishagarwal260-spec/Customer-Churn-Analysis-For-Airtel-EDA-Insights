@@ -1,1 +1,2 @@
-# Customer-Churn-Analysis-For-Airtel-EDA-Insights
+Customer Churn Analysis for Airtel – EDA & Insights
+Performed exploratory data analysis (EDA) on Airtel customer churn dataset with 7,043 records. Cleaned and transformed data, handled missing values, and converted data types. Used Python (Pandas, NumPy, Seaborn, Matplotlib) to analyze churn patterns based on tenure, payment method, contract type, and services used. Delivered insights to identify high-risk customers and improve retention strategies.
